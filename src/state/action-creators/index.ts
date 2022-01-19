@@ -10,14 +10,11 @@ export const searchRepositories = (term: string) => {
     });
 
     try {
-      const { data } = await axios.get(
-        'https://api.npms.io/v2/search?q=react',
-        {
-          params: {
-            text: term,
-          },
-        }
-      );
+      const { data } = await axios.get('https://api.npms.io/v2/search?', {
+        params: {
+          q: term,
+        },
+      });
       const names = data.results.map((result: any) => {
         return result.package.name;
       });
