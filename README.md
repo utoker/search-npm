@@ -13,7 +13,7 @@
 
 <h3 align="center">This is a scalable React-Redux template with TypeScript. </h3>
     <br />
-    <a href="https://github.com/utoker/redux-ts"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/utoker/redux-ts/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://utoker.github.io/redux-ts/">View Demo</a>
@@ -26,7 +26,7 @@ This is a scalable React-Redux template with the implementation of [npms.io](htt
 <br />
 
 <p>
-I created a single entry point for reducers, action creators, and middle-wares to make a communication point from Redux side to the outside world. This approach is great for scalability
+I created a single entry point for reducers, action creators, and middle-wares to make a communication point from Redux side to the outside world. This approach is great for scalability.
 <p/>
 <div> 
 <img src="src/images/screenshot.png" alt="diagram" width='420' heigh='262' > 
