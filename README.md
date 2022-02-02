@@ -11,7 +11,7 @@
     <img src="src/images/logo.png" alt="Logo">
   </a>
 
-<h3 align="center">This is a scalable React-Redux template with TypeScript. </h3>
+<h3 align="center">Scalable React-Redux Template With TypeScript Environment. </h3>
     <br />
     <a href="https://github.com/utoker/redux-ts/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
