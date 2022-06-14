@@ -11,7 +11,7 @@
     <img src="src/images/logo.png" alt="Logo">
   </a>
 
-<h3 align="center">Scalable React-Redux Template With TypeScript Environment. </h3>
+<h3 align="center">Scalable React-Redux Boilerplate With TypeScript Environment. </h3>
     <br />
     <a href="https://github.com/utoker/redux-ts/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
@@ -21,7 +21,7 @@
 
 ## About The Project
 
-This is a scalable React-Redux template with the implementation of [npms.io](https://npms.io/) API for the TypeScript programming environment. More information about npmsearch.com and their API can be found at their [GitHub](https://github.com/npms-io) repository.
+This is a scalable React-Redux Boilerplate with the implementation of [npms.io](https://npms.io/) API for the TypeScript programming environment. More information about npmsearch.com and their API can be found at their [GitHub](https://github.com/npms-io) repository.
 <br />
 <br />
 
