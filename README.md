@@ -7,16 +7,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/utoker/redux-ts">
+  <a href="https://github.com/utoker/search-npm">
     <img src="src/images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Search For Node Packages </h3>
     <br />
-    <a href="https://github.com/utoker/redux-ts/tree/main/src"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/utoker/search-npm/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://utoker.github.io/redux-ts/">View Demo</a>
+    <a href="https://utoker.github.io/search-npm/">View Demo</a>
 </div>
 
 ## About The Project
@@ -24,6 +24,7 @@
 A web app for searching node packages with the implementation of [npms.io](https://npms.io/) API for the TypeScript programming environment. More information about npmsearch.com and their API can be found at their [GitHub](https://github.com/npms-io) repository.
 <br />
 <br />
+
 ### Built With
 
 - [React.js](https://reactjs.org/)
@@ -60,9 +61,7 @@ Umut Toker - utoker@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/utoker/](https://www.linkedin.com/in/utoker/)
 
-Project Link: [https://github.com/utoker/redux-ts](https://github.com/utoker/redux-ts)
-
-
+Project Link: [https://github.com/utoker/search-npm](https://github.com/utoker/search-npm)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
