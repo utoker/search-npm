@@ -27,7 +27,7 @@ A web app for searching node packages with the implementation of [npms.io](https
 
 ### Built With
 
-- [React.js](https://reactjs.org/)
+- [React.js](https://reactjs.org/)`
 - [Redux.js](https://redux.js.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/)
