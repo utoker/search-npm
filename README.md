@@ -16,7 +16,7 @@
     <a href="https://github.com/utoker/search-npm/tree/main/src"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://utoker.github.io/search-npm/">View Demo</a>
+    <a href="https://search-npm.vercel.app/">View Demo</a>
 </div>
 
 ## About The Project
