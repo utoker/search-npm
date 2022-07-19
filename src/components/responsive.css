@@ -1,4 +1,8 @@
 @media screen and (max-width: 768px) {
+  .body {
+    background-image: linear-gradient(rgba(0, 8, 51, 0.9), rgba(0, 8, 51, 0.9)),
+      url('../images/backgroundmobile.jpg');
+  }
   .search-bar {
     max-width: 300px;
   }
@@ -9,5 +13,15 @@
   }
   .repo {
     max-width: 160px;
+  }
+
+  .links {
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    /* margin-top: 10px; */
+  }
+  .repository-card-score {
+    margin-top: 6px;
   }
 }

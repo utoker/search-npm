@@ -15,12 +15,13 @@ export const searchRepositories = (term: string) => {
           q: term,
         },
       });
-      const names = data.results.map((result: any) => {
-        return result.package.name;
+      console.log(data);
+      const repo = data.results.map((result: any) => {
+        return result;
       });
       dispatch({
         type: ActionType.SEARCH_REPOSITORIES_SUCCESS,
-        payload: names,
+        payload: repo,
       });
     } catch (err: any) {
       dispatch({

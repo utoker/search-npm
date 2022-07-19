@@ -4,7 +4,23 @@ import { Action } from '../actions';
 interface RepositoriesState {
   loading: boolean;
   error: string | null;
-  data: string[];
+  data: {
+    package: {
+      description: string;
+      name: string;
+      version: string;
+      links: {
+        bugs: string;
+        homepage: string;
+        repository: string;
+        npm: string;
+      };
+    };
+    score: {
+      detail: { maintenance: number; popularity: number; quality: number };
+      final: number;
+    };
+  }[];
 }
 
 const initialState: RepositoriesState = {

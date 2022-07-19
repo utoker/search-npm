@@ -5,6 +5,7 @@ import './repositories-list.css';
 import './responsive.css';
 
 import src from '../images/search.png';
+import RepositoryCard from './RepositoryCard';
 
 const RepositoriesList: React.FC = () => {
   const { searchRepositories } = useActions();
@@ -23,9 +24,9 @@ const RepositoriesList: React.FC = () => {
       {loading && <h3>Loading...</h3>}
       {!error &&
         !loading &&
-        data.map((name) => (
-          <div className="repo" key={name}>
-            {name}
+        data.map((repo) => (
+          <div className="repo" key={repo.package.name}>
+            <RepositoryCard repo={repo} />
           </div>
         ))}
     </div>
