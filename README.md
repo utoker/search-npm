@@ -21,7 +21,9 @@
 
 ## About The Project
 
-A web app for searching node packages with the implementation of [npms.io](https://npms.io/) API for the TypeScript programming environment. More information about npmsearch.com and their API can be found at their [GitHub](https://github.com/npms-io) repository.
+A web app for searching node packages with the implementation of [npms.io](https://npms.io/) API for the TypeScript programming environment. More information about npms.io and its API can be found at their [GitHub](https://github.com/npms-io) repository.
+
+I did this project to implement React-Redux in a TypeScript environment and use it as a boilerplate for my following projects.
 <br />
 <br />
 
