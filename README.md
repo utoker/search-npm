@@ -27,13 +27,6 @@ I did this project to implement React-Redux in a TypeScript environment and use 
 <br />
 <br />
 
-### Built With
-
-- [React.js](https://reactjs.org/)
-- [Redux.js](https://redux.js.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Axios](https://axios-http.com/)
-<p align="right">(<a href="#top">back to top</a>)</p>
 <p>
 I created a single entry point for reducers, action creators, and middlewares to make a communication point from Redux side to the outside world.
 <p/>
@@ -55,6 +48,14 @@ _I called NPM packages "repositories" because the "package" is a reserved keywor
 
 Simple use the text input bar to search the NPM packages you want.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Built With
+
+- [React.js](https://reactjs.org/)
+- [Redux.js](https://redux.js.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
